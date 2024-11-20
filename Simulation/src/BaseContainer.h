@@ -1,7 +1,7 @@
 #ifndef BASE_CONTAINER_H
 #define BASE_CONTAINER_H
 
-#include "SimConfig.h"
+#include "../utils/SimConfig.h"
 #include <CGAL/IO/Polyhedron_iostream.h>
 #include <CGAL/Polyhedron_3.h>
 #include <CGAL/Simple_cartesian.h>
